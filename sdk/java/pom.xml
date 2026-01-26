@@ -248,7 +248,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <daggerengine.version>devel</daggerengine.version>
 
-        <assertj-core.version>3.26.3</assertj-core.version>
+        <assertj-core.version>3.27.7</assertj-core.version>
         <commons-compress.version>1.27.1</commons-compress.version>
         <commons-lang.version>3.17.0</commons-lang.version>
         <exec-maven-plugin.version>3.5.0</exec-maven-plugin.version>
