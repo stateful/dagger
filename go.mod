@@ -33,7 +33,7 @@ require (
 	github.com/dave/jennifer v1.7.1
 	github.com/denisbrodbeck/machineid v1.0.1
 	github.com/distribution/reference v0.6.0
-	github.com/docker/cli v27.4.0+incompatible
+	github.com/docker/cli v29.2.0+incompatible
 	github.com/docker/docker v27.4.0+incompatible
 	github.com/dschmidt/go-layerfs v0.2.0
 	github.com/dustin/go-humanize v1.0.1
