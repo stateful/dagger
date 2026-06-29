@@ -18,7 +18,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.2.4
 	github.com/charmbracelet/lipgloss v1.0.0
 	github.com/chzyer/readline v1.5.1
-	github.com/containerd/console v1.0.4
+	github.com/containerd/console v1.0.5
 	github.com/containerd/containerd v1.7.24
 	github.com/containerd/containerd/api v1.8.0
 	github.com/containerd/continuity v0.4.5
@@ -64,8 +64,8 @@ require (
 	github.com/muesli/termenv v0.15.2
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0
-	github.com/opencontainers/runc v1.1.15
-	github.com/opencontainers/runtime-spec v1.2.0
+	github.com/opencontainers/runc v1.3.6
+	github.com/opencontainers/runtime-spec v1.2.1
 	github.com/pelletier/go-toml v1.9.5
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/errors v0.9.1
@@ -99,18 +99,18 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.27.0
 	go.opentelemetry.io/otel/trace v1.27.0
 	go.opentelemetry.io/proto/otlp v1.3.1
-	golang.org/x/crypto v0.31.0
+	golang.org/x/crypto v0.33.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	golang.org/x/mod v0.22.0
-	golang.org/x/net v0.33.0
+	golang.org/x/net v0.35.0
 	golang.org/x/oauth2 v0.24.0
-	golang.org/x/sync v0.10.0
-	golang.org/x/sys v0.28.0
-	golang.org/x/term v0.27.0
-	golang.org/x/text v0.21.0
+	golang.org/x/sync v0.11.0
+	golang.org/x/sys v0.30.0
+	golang.org/x/term v0.29.0
+	golang.org/x/text v0.22.0
 	golang.org/x/tools v0.28.0
 	google.golang.org/grpc v1.68.0
-	google.golang.org/protobuf v1.35.2
+	google.golang.org/protobuf v1.36.5
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools/v3 v3.5.1
 	modernc.org/sqlite v1.34.2
@@ -170,7 +170,7 @@ require (
 	github.com/containerd/typeurl/v2 v2.2.0 // indirect
 	github.com/containernetworking/plugins v1.4.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
-	github.com/cyphar/filepath-securejoin v0.3.6 // indirect
+	github.com/cyphar/filepath-securejoin v0.5.2 // indirect
 	github.com/danielgatis/go-ansicode v1.0.6 // indirect
 	github.com/danielgatis/go-iterator v0.0.1 // indirect
 	github.com/danielgatis/go-utf8 v1.0.0 // indirect
@@ -231,7 +231,7 @@ require (
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6 // indirect
 	github.com/muesli/cancelreader v0.2.2 // indirect
 	github.com/ncruces/go-strftime v0.1.9 // indirect
-	github.com/opencontainers/selinux v1.11.0 // indirect
+	github.com/opencontainers/selinux v1.13.1 // indirect
 	github.com/package-url/packageurl-go v0.1.1-0.20220428063043-89078438f170 // indirect
 	github.com/pjbgf/sha1cd v0.3.0 // indirect
 	github.com/pkg/profile v1.7.0 // indirect
@@ -259,7 +259,7 @@ require (
 	github.com/tonistiigi/units v0.0.0-20180711220420-6950e57a87ea // indirect
 	github.com/tonistiigi/vt100 v0.0.0-20240514184818-90bafcd6abab // indirect
 	github.com/vbatts/tar-split v0.11.5 // indirect
-	github.com/vishvananda/netlink v1.2.1-beta.2 // indirect
+	github.com/vishvananda/netlink v1.3.0 // indirect
 	github.com/vishvananda/netns v0.0.4 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
