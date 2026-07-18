@@ -24,7 +24,7 @@
     "@opentelemetry/sdk-metrics": "^1.29.0",
     "@opentelemetry/sdk-node": "^0.56.0",
     "@opentelemetry/semantic-conventions": "^1.25.1",
-    "adm-zip": "^0.5.16",
+    "adm-zip": "^0.6.0",
     "env-paths": "^3.0.0",
     "execa": "^9.5.2",
     "graphql": "^16.10.0",
