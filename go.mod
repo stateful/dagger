@@ -1,6 +1,6 @@
 module github.com/dagger/dagger
 
-go 1.23.2
+go 1.24
 
 require (
 	dagger.io/dagger v0.15.1
@@ -49,7 +49,7 @@ require (
 	github.com/invopop/jsonschema v0.12.0
 	github.com/jackpal/gateway v1.0.15
 	github.com/juju/ansiterm v1.0.0
-	github.com/klauspost/compress v1.17.11
+	github.com/klauspost/compress v1.18.7
 	github.com/koron-go/prefixw v1.0.0
 	github.com/lmittmann/tint v1.0.5
 	github.com/mackerelio/go-osstat v0.2.5
